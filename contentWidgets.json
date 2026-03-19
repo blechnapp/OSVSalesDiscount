@@ -1,0 +1,11 @@
+[
+    {
+        "identifier": "OSVSalesDiscount::DiscountBannerWidget",
+        "label": "OSV Rabatt-Banner",
+        "previewImageURL": "",
+        "type": "singleitem",
+        "position": 500,
+        "widgetClass": "OSVSalesDiscount\\Widgets\\DiscountBannerWidget",
+        "settings": {}
+    }
+]
