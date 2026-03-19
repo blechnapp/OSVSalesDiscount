@@ -2,13 +2,12 @@
   "name": "OSVSalesDiscount",
   "type": "template",
   "namespace": "OSVSalesDiscount",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "proprietary",
-  "pluginType": "template",
   "author": "OSV",
   "shortDescription": "Zeigt einen Rabatt-Prozent-Banner auf der Artikeleinzelansicht an.",
   "categories": ["template"],
-  "dependencies": {
+  "require": {
     "Ceres": ">=5.0.0",
     "IO": ">=5.0.0"
   },
